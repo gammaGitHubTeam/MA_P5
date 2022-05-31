@@ -1,5 +1,7 @@
 const register = () => {
-  console.log("HI GAMMA");
+  console.log("Conflict conflict");
+  console.log('hi conflict');
+  console.log('conflict');
 };
 
 register();
