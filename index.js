@@ -1,5 +1,6 @@
 const register = () => {
-  console.log("HI GAMMA");
+  const a = 10;
+  const b = 5;
 };
 
 register();
